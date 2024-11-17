@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Reuters",
+            "title": "At least 18 dead in Nepal plane crash, officials say - Reuters",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vd3d3LnJldXRlcnMuY29tL3dvcmxkL2FzaWEtcGFjaWZpYy9zYXVyeWEtYWlybGluZXMtcGxhbmUtY3Jhc2hlcy1kdXJpbmctdGFrZW9mZi1uZXBhbC1rYXRobWFuZHUtcG9zdC1zYXlzLTIwMjQtMDctMjQv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T07:32:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC.com",
+            "title": "James Cleverly urges Tory 'discipline' in leadership bid - BBC.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdjJnMHoxZ2t6eW_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3YyZzB6MWdrenlvLmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T07:22:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "CNN",
+            "title": "New Zealand enquiry finds 200,000 children and vulnerable adults abused in care, leader says ‘we should have done better’ - CNN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vd3d3LmNubi5jb20vMjAyNC8wNy8yNC9hdXN0cmFsaWEvbmV3emVhbGFuZC1hYnVzZS1jYXJlLWlucXVyaXktaW50bC1obmsvaW5kZXguaHRtbNIBU2h0dHBzOi8vYW1wLmNubi5jb20vY25uLzIwMjQvMDcvMjQvYXVzdHJhbGlhL25ld3plYWxhbmQtYWJ1c2UtY2FyZS1pbnF1cml5LWludGwtaG5r?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T06:09:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Washington Post",
+            "title": "Video: Hydrothermal eruption sends tourists running in Yellowstone - The Washington Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9uYXRpb24vMjAyNC8wNy8yMy95ZWxsb3dzdG9uZS1iaXNjdWl0LWJhc2luLWV4cGxvc2lvbi_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T04:37:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC.com",
+            "title": "Gaza war: 150,000 have fled Khan Younis since Monday, UN says - BBC.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jODBlampkazRyN2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvYzgwZWpqZGs0cjdvLmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T04:16:37Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Ars Technica",
+            "title": "Want to cook like a Neanderthal? Archaeologists are learning the secrets - Ars Technica",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidWh0dHBzOi8vYXJzdGVjaG5pY2EuY29tL3NjaWVuY2UvMjAyNC8wNy9oYW5kLW1lLXRoYXQtZmxpbnQtZmxha2UtYXJjaGFlb2xvZ2lzdHMtYnV0Y2hlci1jb29rLWZvd2wtbGlrZS1hLW5lYW5kZXJ0aGFsL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T04:01:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Blast at Jose Cuervo plant in Mexico's Tequila kills at least five people - Reuters Canada",
+            "description": "An explosion at a Jose Cuervo tequila plant in central Mexico killed at least five company workers and forced the evacuation of tourists from the area in the spirit's hometown of Tequila, the head of the state's emergency services said on Tuesday.",
+            "url": "https://www.reuters.com/world/americas/blast-jose-cuervo-plant-mexicos-tequila-kills-least-two-people-2024-07-24/",
+            "urlToImage": "https://www.reuters.com/resizer/v2/HZ57TTU63JM6HD5I7C3AU5ESSI.jpg?auth=037794a30373fe750e7ae8160aed7fb63ad705a3f672bed85b7d0e77647881b2&height=1005&width=1920&quality=80&smart=true",
+            "publishedAt": "2024-07-24T03:58:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "BBC.com",
+            "title": "Celine Dion singing at Olympics would be great, says Macron - BBC.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9hcnRpY2xlcy9jdzV5dzIxMHgxa2_SATJodHRwczovL3d3dy5iYmMuY29tL25ld3MvYXJ0aWNsZXMvY3c1eXcyMTB4MWtvLmFtcA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T03:40:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Wall Street Journal",
+            "title": "Tesla’s Profit Falls for Second Straight Quarter - The Wall Street Journal",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3Lndzai5jb20vYnVzaW5lc3MvZWFybmluZ3MvdGVzbGEtdHNsYS1xMi1lYXJuaW5ncy1yZXBvcnQtMjAyNC0zZTg0OWIzNtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T03:17:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Clemente Duran-Ballen",
+            "title": "Video: Why Trump’s FEC complaint against Harris is a ‘long shot’ according to Honig - CNN",
+            "description": "CNN legal analyst Elie Honig breaks down the Trump campaign’s complaint about Vice President Kamala Harris’ access to campaign funds.",
+            "url": "https://www.cnn.com/2024/07/23/politics/video/trump-fec-complaint-harris-biden-campaign-sot-digvid",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/still-20795029-1465960-still.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-07-24T03:04:27Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Washington Post",
+            "title": "Scientists find ‘dark oxygen’ being produced from metals on the seafloor - The Washington Post",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiUGh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS9zY2llbmNlLzIwMjQvMDcvMjMvZGFyay1veHlnZW4tZGVlcC1vY2Vhbi1taW5pbmcv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T02:40:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Cointelegraph",
+            "title": "Google parent Alphabet profit surges 29% in Q2 amid AI splurge - Cointelegraph",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8vY29pbnRlbGVncmFwaC5jb20vbmV3cy9nb29nbGUtcGFyZW50LWFscGhhYmV0LXByb2ZpdC11cC0yOC1wZXJjZW50LWFtaWQtYWktc3BsdXJnZdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T02:29:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Former Cowboys WR Michael Gallup Surprisingly Retires From NFL at Age 28 - Sports Illustrated",
+            "description": null,
+            "url": "https://consent.google.com/m",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T01:50:01Z",
+            "content": "We use cookies and data to\r\n<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to un… [+1139 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NorthJersey.com",
+            "title": "Mega Millions winning numbers for Tuesday, July 23. Check tickets for $279 million drawing - NorthJersey.com",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihAFodHRwczovL3d3dy5ub3J0aGplcnNleS5jb20vc3RvcnkvbmV3cy9uYXRpb24vMjAyNC8wNy8yMy9tZWdhLW1pbGxpb25zLXdpbm5pbmctbnVtYmVycy1kcmF3aW5nLWZvci10dWVzZGF5LWp1bHktMjMtMjAyNC83NDUyMTU2OTAwNy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T01:43:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Associated Press",
+            "title": "Records show deputy charged in Sonya Massey's fatal shooting worked for 6 agencies in 4 years - The Associated Press",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vYXBuZXdzLmNvbS9hcnRpY2xlL3NvbnlhLW1hc3NleS1pbGxpbm9pcy1wb2xpY2Utc2hvb3RpbmctOTExLWQzMTFhMTc3Y2VhYzU2N2NhYzU4ZjY4YmU4MTBkZjc50gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T01:30:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ESPN",
+            "title": "NFL training camp 2024 live updates: Saints expect Young, Olave to practice - ESPN",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiemh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwMTkxOTMyL25mbC10cmFpbmluZy1jYW1wLWxpdmUtdXBkYXRlcy0yMDI0LW5ld3MtZGVwdGgtY2hhcnRzLWluanVyaWVzLXJvc3Rlci1iYXR0bGVz0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T01:15:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "TOI Etimes",
+            "title": "'Deadpool And Wolverine' projected to have $360 Million opening; Ryan Reynolds and Hugh Jackman to set ne - TOI Etimes",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMi8wFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9lbnRlcnRhaW5tZW50L2VuZ2xpc2gvaG9sbHl3b29kL2JveC1vZmZpY2UvZGVhZHBvb2wtYW5kLXdvbHZlcmluZS1wcm9qZWN0ZWQtdG8taGF2ZS0zNjAtbWlsbGlvbi1ib3gtb2ZmaWNlLW9wZW5pbmctcnlhbi1yZXlub2xkcy1hbmQtaHVnaC1qYWNrbWFuLXRvLXNldC1uZXctcmVjb3JkLWZvci1yLXJhdGVkLW1vdmllL2FydGljbGVzaG93LzExMTk3MzI2MS5jbXPSAfcBaHR0cHM6Ly90aW1lc29maW5kaWEuaW5kaWF0aW1lcy5jb20vZW50ZXJ0YWlubWVudC9lbmdsaXNoL2hvbGx5d29vZC9ib3gtb2ZmaWNlL2RlYWRwb29sLWFuZC13b2x2ZXJpbmUtcHJvamVjdGVkLXRvLWhhdmUtMzYwLW1pbGxpb24tYm94LW9mZmljZS1vcGVuaW5nLXJ5YW4tcmV5bm9sZHMtYW5kLWh1Z2gtamFja21hbi10by1zZXQtbmV3LXJlY29yZC1mb3Itci1yYXRlZC1tb3ZpZS9hbXBfYXJ0aWNsZXNob3cvMTExOTczMjYxLmNtcw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T01:04:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Todd Archer",
+            "title": "Sources: Lamb not expected when Dallas opens up - ESPN",
+            "description": "Dallas Cowboys wide receiver CeeDee Lamb, who has been unable to land the type of contract extension that other players at his position have, is not expected to report to training camp Wednesday with his team, sources told ESPN's Adam Schefter on Tuesday.",
+            "url": "https://www.espn.com/nfl/story/_/id/40627475/ceedee-lamb-not-expected-report-training-camp",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0724%2Fr1362382_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-07-24T00:56:00Z",
+            "content": "OXNARD, Calif. -- Dallas Cowboys star CeeDee Lamb, who has been unable to land the type of contract extension that other wide receivers have, is not expected to report to training camp Wednesday with… [+2269 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Guardian",
+            "title": "John Mayall, pioneering figure of British blues, dies aged 90 - The Guardian",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9tdXNpYy9hcnRpY2xlLzIwMjQvanVsLzIzL2pvaG4tbWF5YWxsLWJsdWVzLWRpZXPSAUxodHRwczovL2FtcC50aGVndWFyZGlhbi5jb20vbXVzaWMvYXJ0aWNsZS8yMDI0L2p1bC8yMy9qb2huLW1heWFsbC1ibHVlcy1kaWVz?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T00:54:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Fox News",
+            "title": "Rooftop bodycam video shows confusion among officials, rifle shooter used in deadly attempt on Trump - Fox News",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL3Jvb2Z0b3AtYm9keWNhbS12aWRlby1zaG93cy1jb25mdXNpb24tYW1vbmctb2ZmaWNpYWxzLXJpZmxlLXNob290ZXItdXNlZC1kZWFkbHktYXR0ZW1wdC10cnVtcNIBfGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3VzL3Jvb2Z0b3AtYm9keWNhbS12aWRlby1zaG93cy1jb25mdXNpb24tYW1vbmctb2ZmaWNpYWxzLXJpZmxlLXNob290ZXItdXNlZC1kZWFkbHktYXR0ZW1wdC10cnVtcC5hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-07-24T00:48:50Z",
+            "content": null
+        }
+    ]
+}
